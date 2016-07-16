@@ -1,4 +1,4 @@
-name: AmberLaplante
+name: ShuttleCake
 favicon: null
 layout_spectrum: 0.8093079128302634
 typography_spectrum: 0.8291636148933321
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.02427697111852467
-  lightness: 0.937637114431709
-  saturation: 0.3326096583623439
-  rhythmicContrast: 0.9606866233516484
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
